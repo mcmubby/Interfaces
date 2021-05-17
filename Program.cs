@@ -120,3 +120,9 @@ namespace Interfaces
         }
     }
 }
+
+// -- The functionality/ set of functionalities are related
+// /// - used to create a documentation comment in c#
+// How do we know when to use an interface
+// - the functionalities/ methods / set of functionalities are reusable
+// -- each functionality can take on different forms of implementation even though the idea of the method is the same
